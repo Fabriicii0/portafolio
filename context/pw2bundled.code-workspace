@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "pw2bundled",
+			"path": ".."
+		},
+		{
+			"name": "img",
+			"path": "../../../../../Documents/GitHub/portafolio/img"
+		},
+		{
+			"name": "less",
+			"path": "../../../../../Documents/GitHub/portafolio/less"
+		}
+	],
+	"settings": {}
+}
